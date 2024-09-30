@@ -1,2 +1,2 @@
 # Clustering_saves
-estou criando este repositório com a finalidade de salvar meu código para análises futuras, pois possuem análises de parâmetros boas (kmeans)
+I am creating this repository with the purpose of saving my code for future analysis, as they have good parameter analysis (kmeans)
