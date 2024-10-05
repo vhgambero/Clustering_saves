@@ -10,7 +10,8 @@ Streamlining future experiments by referencing the saved scripts, especially whe
 ## Key Features
 KMeans Algorithm: The code in this repository focuses on applying KMeans clustering, a widely used unsupervised learning technique, to segment data into meaningful groups.
 
-## Parameter Tuning: Special attention is given to parameter tuning, including choosing the optimal number of clusters (n_clusters) based on metrics such as the silhouette score, Calinski-Harabasz index, and Davies-Bouldin score. This ensures that the clusters formed are well-separated and internally coherent.
+### Parameter Tuning:
+Special attention is given to parameter tuning, including choosing the optimal number of clusters (n_clusters) based on metrics such as the silhouette score, Calinski-Harabasz index, and Davies-Bouldin score. This ensures that the clusters formed are well-separated and internally coherent.
 
 ### Future Analysis: By saving these scripts, I aim to facilitate easy access to well-documented examples of clustering models that can be reused or adapted for similar datasets and tasks.
 
